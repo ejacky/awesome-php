@@ -766,6 +766,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [Laravel The Right Way](http://www.laravelbestpractices.com/) - A laravel best practice quick reference guide.
 
 ## PHP Books
 *Fantastic PHP-related books.*
