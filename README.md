@@ -768,6 +768,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
 * [Laravel The Right Way](http://www.laravelbestpractices.com/) - A laravel best practice quick reference guide.
 * [PHP Weekly in phpstorm](http://blog.jetbrains.com/phpstorm/) - A weekly PHP newsletter by phpstorm.
+* [IDEONE](http://ideone.com) - An online compiler and debugging tool
 
 ## PHP Books
 *Fantastic PHP-related books.*
